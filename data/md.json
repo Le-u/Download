@@ -1,0 +1,3 @@
+{
+  "content": "```mermaid graph TD;EditorState-->EditorView;EditorView-->DOMEvent;DOMEvent-->Transaction;Transaction-->EditorState;```"
+}
